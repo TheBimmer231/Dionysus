@@ -1,2 +1,0 @@
-output_name = "trim_reinforced"
-template = "bitmask/baylike_32x32.toml"

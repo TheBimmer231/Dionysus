@@ -1,2 +1,0 @@
-output_name = "lowtrim_bronze"
-template = "bitmask/baylike_32x32.toml"
