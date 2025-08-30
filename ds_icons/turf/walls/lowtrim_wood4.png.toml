@@ -1,0 +1,2 @@
+output_name = "lowtrim_wood4"
+template = "bitmask/baylike_32x32.toml"
